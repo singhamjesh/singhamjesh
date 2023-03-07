@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Amjesh Singh
-- 👀 I’m interested in Development, Designing and DevOps
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on npm packages.
-- 📫 How to reach me - Send a mail at singhamjesh.cse@gmail.com
-
-<!---
-singhamjesh/singhamjesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a skilled web developer and designer with extensive experience in the information technology and services industry. I have expertise in various technologies such as Node.js (Hapi.js, Express.js), React.js (Next.js), Angular 2+, MongoDB, MySQL, JavaScript, jQuery, AWS, Docker, CICD, and automation testing (Cypress, Jest, Playwright). My strong educational background includes a Bachelor of Technology (B.Tech.) in Computer Science from Galgotias University.
